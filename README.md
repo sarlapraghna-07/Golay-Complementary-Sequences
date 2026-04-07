@@ -1,5 +1,3 @@
-# Golay-Complementary-Sequences
-Implementation and analysis of Golay Complementary Sequences for applications in signal processing, radar and communication systems.
 # Golay Complementary Sequences — DSP Project
 
 > A complete Python implementation covering sequence generation, PAPR reduction in OFDM, and channel estimation using Golay complementary pairs.
