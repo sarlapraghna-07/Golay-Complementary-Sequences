@@ -4,7 +4,6 @@ Implementation and analysis of Golay Complementary Sequences for applications in
 
 > A complete Python implementation covering sequence generation, PAPR reduction in OFDM, and channel estimation using Golay complementary pairs.
 
-
 ## Table of Contents
 - What are Golay Complementary Sequences?
 - Key Results
@@ -14,9 +13,7 @@ Implementation and analysis of Golay Complementary Sequences for applications in
 - Section 2 - PAPR Analysis
 - Section 3 - Channel Estimation
 - Requirements
-
-
-
+- 
 ## What are Golay Complementary Sequences?
 
 A **Golay complementary pair** is a pair of binary sequences `a` and `b` (values ±1) of length `N = 2ⁿ` such that the sum of their aperiodic autocorrelations is a perfect impulse:
